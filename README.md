@@ -116,7 +116,7 @@ Follow The Steps Below!
 
 ```bash
 > git clone https://github.com/mancabot/Mc-Bot-Nuy
-> cd bot-wea-v3
+> cd Mc-Bot-Nuy
 > npm install
 > npm i imgbb-uploader
 > npm i got
